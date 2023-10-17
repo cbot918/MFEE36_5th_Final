@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import Link from 'next/link'
-import styles from '@/components/Cart_component/Cart/REBook.module.css'
+import styles from './REBook.module.css'
 import Image from 'next/image'
 import { useRouter } from 'next/router'
 
